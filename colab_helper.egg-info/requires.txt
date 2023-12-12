@@ -1,0 +1,11 @@
+notion_client
+gspread
+textblob
+openai
+sketch
+mysql-connector-python
+seaborn
+icecream
+imblearn
+yellowbrick
+black
