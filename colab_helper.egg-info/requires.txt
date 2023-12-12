@@ -9,3 +9,4 @@ icecream
 imblearn
 yellowbrick
 black
+tpot

@@ -2,3 +2,15 @@ Metadata-Version: 2.1
 Name: colab-helper
 Version: 0.0.1
 Summary: Colab Helper Package
+Requires-Dist: notion_client
+Requires-Dist: gspread
+Requires-Dist: textblob
+Requires-Dist: openai
+Requires-Dist: sketch
+Requires-Dist: mysql-connector-python
+Requires-Dist: seaborn
+Requires-Dist: icecream
+Requires-Dist: imblearn
+Requires-Dist: yellowbrick
+Requires-Dist: black
+Requires-Dist: tpot
