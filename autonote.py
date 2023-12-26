@@ -53,7 +53,7 @@ from yellowbrick.classifier import DiscriminationThreshold, PrecisionRecallCurve
 from google.colab import userdata
 
 host = userdata.get("host")
-db_username = userdata.get("db_username")
+db_user = userdata.get("db_user")
 db_password = userdata.get("db_password")
 database = userdata.get("database")
 
