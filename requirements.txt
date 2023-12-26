@@ -10,3 +10,4 @@ imblearn
 yellowbrick
 black
 tpot
+IPython.display
