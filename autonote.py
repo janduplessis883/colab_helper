@@ -50,7 +50,13 @@ from yellowbrick.classifier import DiscriminationThreshold, PrecisionRecallCurve
 
 
 # Authentication and secret information
-import autonote_config as ac
+from google.colab import userdata
+
+host = userdata.get("host")
+db_username = userdata.get("db_username")
+db_password = userdata.get("db_password")
+database = userdata.get("database")
+
 from sheethelper import SheetHelper
 from emailbuddy import EmailBuddy
 
